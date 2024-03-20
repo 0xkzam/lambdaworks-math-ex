@@ -1,0 +1,10 @@
+[package]
+name = "lambdaworks-math-ex"
+version = "0.1.0"
+edition = "2021"
+description = "Using lambdaworks library"
+
+
+[dependencies]
+lambdaworks-math = { path = "../lambdaworks/math" }
+
